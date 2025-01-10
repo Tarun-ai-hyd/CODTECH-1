@@ -54,7 +54,8 @@ While using the k-means clustering algorithm, the first step is to indicate the 
 5.Iterative minimization of the total within the sum of squares. Then through the iterative minimization of the total sum of the square, the assignment stop wavering when we - - Achieve maximum iteration. The default value is 10 that the R software uses for the maximum iterations.
  
 
-![Screenshot 2024-10-25 213152](https://github.com/user-attachments/assets/4e56f56c-daa3-47af-9450-ccb932eae0b4)
+![Screenshot_10-1-2025_14911_colab research google com](https://github.com/user-attachments/assets/18475245-23e1-4a72-8926-79b8612dbbda)
+
 
 
  
